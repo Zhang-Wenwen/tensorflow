@@ -12,7 +12,6 @@ slim = tf.contrib.slim
 import numpy as np
 import argparse
 import os
-import Image
 from datetime import datetime
 import math
 import time
