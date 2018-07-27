@@ -12,7 +12,7 @@ slim = tf.contrib.slim
 import numpy as np
 import argparse
 import os
-from PIL import Image
+import Image
 from datetime import datetime
 import math
 import time
